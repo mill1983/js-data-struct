@@ -1,0 +1,23 @@
+{
+  "name": "mill-data-struct",
+  "version": "1.0.0",
+  "description": "for data struct",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mill1983/js-data-struct.git"
+  },
+  "keywords": [
+    "js",
+    "data"
+  ],
+  "author": "mill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mill1983/js-data-struct/issues"
+  },
+  "homepage": "https://github.com/mill1983/js-data-struct#readme"
+}
